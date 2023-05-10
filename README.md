@@ -6,7 +6,7 @@ I joined a freelance project working with C# .NET Framework 4.8.1, which made me
 
 I'm currently focusing on learning Python, CSS and Javascript even though I'm also studying C#
 
-- 🔭 Free for job
+- 🔭 Free to work
 - 🌱 Fullstack Apprentice
 - 📶 Python | C | Javascript | C# | HTML | css | 3D Unity |
 - 💻 Powershell | Bash | Git ... coming soon to Azure
