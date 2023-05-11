@@ -20,8 +20,8 @@ I value greate usability, user experience, design thinking, also good code reada
 - 💌 Code | Hardware | Electronics | 
 - 📫 Contact me: ... https://www.linkedin.com/in/vinicius-scorza/
 
-I also made games in Unity 3D, two of them you can play here:
+- 🎮 I also made games in Unity 3D, two of them you can play here:
 https://itch.io/dashboard
 
-Some musical productions
+- 🎹 Some musical productions
 https://soundcloud.com/vinny09
