@@ -10,7 +10,7 @@ I joined a freelance project working with C# .NET Framework 4.8.1, which made me
 
 Currently, i'm focusing on learning Python, CSS and Javascript even though I'm also studying C#
 
-I value greate usability, user experience, design thinking, also good code readability, clean code is the way. 
+I value greate usability, user experience, design thinking, also good code readability!! Clean code is the way!! 
 
 - 🔭 Free to work
 - 🌱 Fullstack Apprentice
