@@ -19,3 +19,6 @@ I'm currently focusing on learning Python, CSS and Javascript even though I'm al
 
 I also made games in Unity 3D, two of them you can play here:
 https://itch.io/dashboard
+
+Some musical productions
+https://soundcloud.com/vinny09
