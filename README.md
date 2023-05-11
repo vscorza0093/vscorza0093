@@ -4,16 +4,19 @@ My name is Vinicius, I started my studies in January 2023 as a self-taught perso
 
 I came from the world of audio, working with theater and with bands.
 
-I love tecnologies and its difficult to me to found something that i don't enjoy
+Tecnologies are awesome and its difficult to me to found something that i don't enjoy in this world
 
 I joined a freelance project working with C# .NET Framework 4.8.1, which made me learn about the amazing .NET ecosystem
 
-I'm currently focusing on learning Python, CSS and Javascript even though I'm also studying C#
+Currently, i'm focusing on learning Python, CSS and Javascript even though I'm also studying C#
+
+I value greate usability, user experience, design thinking, also good code readability, clean code is the way. 
 
 - 🔭 Free to work
 - 🌱 Fullstack Apprentice
 - 📶 Python | C | Javascript | C# | HTML | CSS | SQL | Unity 3D
-- 💻 Powershell | Bash | Git ... coming soon: Azure
+- 💻 Git | Bash | Powershell ... coming soon: Azure
+- ⚒️ Autodesk Maya | Figma | Photoshop
 - 💌 Code | Hardware | Electronics | 
 - 📫 Contact me: ... https://www.linkedin.com/in/vinicius-scorza/
 
