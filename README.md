@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vinicius, I started my studies in January 2023 as a self-taught person, studying programming logic and going through some languages such as C, C#, Python, Ruby and Java Script
+My name is Vinicius Scorza, I started my studies in January 2023 as a self-taught person, studying programming logic and going through some languages such as C, C#, Python, Ruby and JavaScript
 
 I came from the world of audio, working with theater and with bands.
 
@@ -14,7 +14,7 @@ I value greate usability, user experience, design thinking, also good code reada
 
 - 🔭 Free to work
 - 🌱 Fullstack Apprentice
-- 📶 Python | C | Javascript | C# | HTML | CSS | SQL | Unity 3D
+- 📶 Python | C | JavaScript | C# | HTML | CSS | SQL | Unity 3D
 - 💻 Git | Bash | Powershell ... coming soon: Azure
 - ⚒️ Autodesk Maya | Figma | Photoshop
 - 💌 Code | Hardware | Electronics | 
