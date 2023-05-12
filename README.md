@@ -25,3 +25,6 @@ https://itch.io/dashboard
 
 - 🎹 Some musical productions
 https://soundcloud.com/vinny09
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vscorza0093&layout=compact)](https://github.com/vscorza0093/github-readme-stats)
+
