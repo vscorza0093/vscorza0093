@@ -14,8 +14,8 @@ I value greate usability, user experience, design thinking, also good code reada
 
 - 🔭 Free to work
 - 🌱 Fullstack Apprentice
-- 📶 Python | C | JavaScript | C# | HTML | CSS | SQL | Unity 3D
-- 💻 Git | Powershell ... coming soon: Azure
+- 📶 Python | JavaScript | C# | C | HTML | CSS | SQL | Unity 3D
+- 💻 Git | Powershell | Bash 
 - ⚒️ Autodesk Maya | Figma | Photoshop
 - 💌 Code | Hardware | Electronics | 
 - 📫 Contact me: ... https://www.linkedin.com/in/vinicius-scorza/
