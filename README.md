@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vinicius Scorza, I started my studies in January 2023 as a self-taught person, studying programming logic and going through some languages such as C, C#, Python, Ruby and JavaScript
+My name is Vinicius Scorza, I started my studies in January 2023 as a self-taught person, studying programming logic and going through some languages such as C, C#, Python, Dart, Ruby and JavaScript
 
 I came from the world of audio, working with theater and with bands.
 
@@ -8,15 +8,15 @@ Tecnologies are awesome and its difficult to me to found something that i don't 
 
 I joined a freelance project working with C# .NET Framework 4.8.1, which made me learn about the amazing .NET ecosystem
 
-Currently, i'm focusing on learning Python, CSS and Javascript even though I'm also studying C#
+Currently, i'm studying Python with Django Framework and Dart with Flutter SDK
 
 I value greate usability, user experience, design thinking, also good code readability!! Clean code is the way!! 
 
 - 🔭 Free to work
 - 🌱 Fullstack Apprentice
-- 📶 Python | JavaScript | C# | C | HTML | CSS | SQL | Unity 3D
-- 💻 Git | Powershell | Bash 
-- ⚒️ Autodesk Maya | Figma | Photoshop
+- 📶 Python | Dart | C# | C | HTML | CSS | SQL | 
+- 💻 Git | Powershell |
+- ⚒️ Unity 3D | Autodesk Maya | Figma | Photoshop | Logic Pro 
 - 💌 Code | Hardware | Electronics | 
 - 📫 Contact me: ... https://www.linkedin.com/in/vinicius-scorza/
 
