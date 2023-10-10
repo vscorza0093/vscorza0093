@@ -14,7 +14,7 @@ I value greate usability, user experience, design thinking, also good code reada
 
 - 🔭 Free to work
 - 🌱 Fullstack Apprentice
-- 📶 Python | Dart | C# | C | HTML | CSS | SQL | 
+- 📶 Python | Dart/Flutter | C#/.NET | C | HTML | CSS | SQL | 
 - 💻 Git | Powershell |
 - ⚒️ Unity 3D | Autodesk Maya | Figma | Photoshop | Logic Pro 
 - 💌 Code | Hardware | Electronics | 
