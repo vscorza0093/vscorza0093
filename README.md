@@ -9,7 +9,6 @@ Technologies are awesome and it's hard for me to find something I don't like
 I value greate usability, user experience, design thinking, also good code readability!!
 
 - 🔭 Free to work
-- 🌱 Fullstack Apprentice
 - 📶 Dart/Flutter | C#/.NET | SQL | 
 - 💻 Git | Powershell |
 - ⚒️ Unity 3D | Autodesk Maya | Figma | Photoshop | Logic Pro 
