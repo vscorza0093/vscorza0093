@@ -1,5 +1,3 @@
-### Hello 👋
-
 Valorizo a boa usabilidade, experiência do usuário e clean code
 
 - 📶 C#/.NET | Python | SQL | HTML | CSS | JavaScript
